@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @femigoals
-- 👀 I’m interested in DATA SCIENCE and Web Development
+- 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Laravel
 - 📫 How to reach me femigoals@gmail.com
