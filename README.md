@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @femigoals
-- 👀 I’m interested in DATA SCIENCE AND ANALYSIS
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on PYTHON
+- 👀 I’m interested in DATA SCIENCE and Web Development
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on Laravel
 - 📫 How to reach me femigoals@gmail.com
 
 <!---
