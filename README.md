@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @femigoals
-- 👀 I’m interested in Data Science and Web Development
+- 👀 I’m interested in Data Science, Medical Image Analysis, Mathematical Modelling and Web Development
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Laravel
+- 💞️ I’m looking to collaborate on Scientific Projects
 - 📫 How to reach me femigoals@gmail.com
 
 <!---
