@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @femigoals
-- 👀 I’m interested in Data Science, Medical Image Analysis, Mathematical Modelling and Web Development
-- 🌱 I’m currently learning Ploting in Python
+- 👀 I’m interested in Data Science, Medical Image Analysis, Mathematical Modelling, and Web Development
+- 🌱 I’m currently learning advanced Statistical analysis
 - 💞️ I’m looking to collaborate on Scientific Projects
 - 📫 How to reach me manager.DATICAN@gmail.com
 
