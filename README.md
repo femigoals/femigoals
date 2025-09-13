@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @femigoals
+- 👋 Hi, I’m @femigoals, John Akintayo, A Phd Scholar from Lagos state University
 - 👀 I’m interested in Data Science, Medical Image Analysis, Mathematical Modelling, and Web Development
 - 🌱 I’m currently learning advanced Statistical analysis
 - 💞️ I’m looking to collaborate on Scientific Projects
